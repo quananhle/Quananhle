@@ -71,13 +71,13 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 **Software Engineering:**
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Travis](https://img.shields.io/badge/Travis-red?style=flat&logo=travis&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 
 **Software Development:**
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse-IDE-purple?style=flat&logo=Eclipse-IDE&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![NetBeans](https://img.shields.io/badge/-NetBeans?style=flat&logo=NetBeans&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-IDEA?style=flat&logo=IntelliJ-IDEA&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![NetBeans](https://img.shields.io/badge/NetBeans?style=flat&logo=NetBeans&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA?style=flat&logo=IntelliJ-IDEA&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-007ACC?style=flat&logo=Visual-Studio-Code&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
