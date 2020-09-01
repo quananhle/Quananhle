@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse-darkblue?style=flat&logo=Eclipse-IDE&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![NetBeans IDE](https://img.shields.io/badge/NetBeans-black?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-red?style=flat&logo=IntelliJ-IDEA&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Visual Studio](https://img.shields.io/badge/Visual-Studio-purple?style=flat&logo=Visual-Studio-Code&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Visual Studio](https://img.shields.io/badge/007ACC-purple?style=flat&logo=Visual-Studio-Code&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Android Studio](https://img.shields.io/badge/Android-Studio-3DDC84?style=flat&logo=Android-Studio&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Emacs](https://img.shields.io/badge/GNU-Emacs?style=flat&logo=GNU-Emacs&link=https://github.com/Quananhle)](https://github.com/Quananhle)
