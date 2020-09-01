@@ -17,31 +17,45 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Languages and Tools
 
-**Programming Languages:**
-[![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle) [
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+**Python**: 
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+
+**Java**: 
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
-[![Haskell](https://img.shields.io/badge/-Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
+[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+
+**JavaScript**: 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C-purple?style=for-the-badge&logo=bootstrap&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
+
+**SQL:**
+[![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+
+
+
+[![Haskell](https://img.shields.io/badge/-Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
+[![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![R](https://img.shields.io/badge/-R-blue?style=for-the-badge&logo=R&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
 
-[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+
+ 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+
+
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
