@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 ### 👨‍💻 Languages and Tools
 
 #### Languages:
@@ -30,7 +39,8 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
 [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-[![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![XML](https://img.shields.io/badge/-XML-black?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+[![JSON](https://img.shields.io/badge/-JSON-black?style=flat&logo=json&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
 
 **JavaScript**: 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
@@ -53,7 +63,7 @@ Here are some ideas to get you started:
  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-
+[![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 
 
