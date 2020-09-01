@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 **SQL:**
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 
