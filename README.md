@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 **Software Development:**
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse-darkblue?style=flat&logo=Eclipse-IDE&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![NetBeans IDE](https://img.shields.io/badge/NetBeans-green?style=flat&logo=Apache-NetBeans-IDE&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-blue?style=flat&logo=IntelliJ-IDEA&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=flat&logo=IntelliJ-IDEA&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-007ACC?style=flat&logo=Visual-Studio-Code&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
