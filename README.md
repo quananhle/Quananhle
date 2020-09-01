@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-red?style=flat&logo=IntelliJ-IDEA&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Visual Studio](https://img.shields.io/badge/Visual-Studio-purple?style=flat&logo=Visual-Studio-Code&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Android Studio](https://img.shields.io/badge/Android-Studio-3DDC84?style=flat&logo=Android-Studio&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Vim](https://img.shields.io/badge/Vim?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Emac](https://img.shields.io/badge/Emac?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![XCode](https://img.shields.io/badge/Xcode-1575F9-blue?style=flat&logo=Xcode&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
