@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
 
 **SQL:**
-[![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 
