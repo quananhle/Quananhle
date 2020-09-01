@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Languages and Tools
 
-**Languages:** [
-![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white] 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+**Languages:** 
+
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Quananhle](https://github.com/Quananhle) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI) 
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
 
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
@@ -65,4 +65,4 @@ learning data structures and algorithms recently becauese I am preparing for pos
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
 
-⭐️ From [GoogTech](https://github.com/yubuntu0109)
+⭐️ From 
