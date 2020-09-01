@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 Languages and Tools
 
 #### Languages:
+
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
 [![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
@@ -62,16 +63,27 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
-#### Version Control:
+#### Tools:
+
+**Version Control:**
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 
+**Software Engineering:**
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
+**Software Development:**
+[![Eclipse IDE](https://img.shields.io/badge/-Eclipse-IDE-2C2255?style=flat&logo=2C2255&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![NetBeans](https://img.shields.io/badge/-NetBeans?style=flat&logo=NetBeans&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-IDEA?style=flat&logo=IntelliJ-IDEA&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-007ACC?style=flat&logo=Visual-Studio-Code&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 
