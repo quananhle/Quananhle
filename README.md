@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 **SQL:**
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 
