@@ -83,7 +83,10 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=OOP-JAVA-and-Android-App-Developer&theme=highcontrast "Android-Software-Development")](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)
 
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=quananhle&show_icons=true&hide_border=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=quananhle&show_icons=true&theme=shades-of-purple&hide_border=true)
+![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
+
+&hide=glsl,python
 
 ### 🔭 2020 Goal
 Sharpen knowledge in data structures and algorithms.
