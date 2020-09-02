@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Android Studio](https://img.shields.io/badge/Android-Studio?style=flat&logo=Android-Studio&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Emacs](https://img.shields.io/badge/GNU-Emacs?style=flat&logo=GNU-Emacs&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Emacs](https://img.shields.io/badge/Emacs?style=flat&logo=GNU-Emacs&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![XCode](https://img.shields.io/badge/-lightgray?style=flat&logo=Xcode&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/Quananhle)](https://github.com/Quananhle)
