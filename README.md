@@ -20,9 +20,15 @@ Here are some ideas to get you started:
 ### Funny Joke
 
 ```
+"Have you heard about the object-oriented way to become wealthy?"
+"No..."
+"Inheritance."
+```
+<!--
+```
 "Why all Pascal programmers ask to live in Atlantis?"
 "Because it is below C level."
-```
+``` -->
 
 ### 👨‍💻 Languages and Tools
 
