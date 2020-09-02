@@ -112,6 +112,4 @@ Here are some ideas to get you started:
 <a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
  
-![visitors align=right](https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle)
-
-⭐️ From [Quan](https://github.com/Quananhle) with :sparkling_heart:
+⭐️ From [Quan](https://github.com/Quananhle) with :sparkling_heart: ![visitors align=right](https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle)
