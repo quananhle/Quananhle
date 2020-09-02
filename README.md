@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ### Languages
 
-  [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-  [![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
-  [![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
+    [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+    [![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
+    [![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
 
   **Python**:
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
@@ -65,15 +65,6 @@ Here are some ideas to get you started:
 
 ### Tools
 
-**Version Control:**
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-
-**Software Engineering:**
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-
 **Software Development:**
 [![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/Quananhle "Eclipse IDE")](https://github.com/Quananhle)
 [![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Quananhle "NetBeans IDE")](https://github.com/Quananhle)
@@ -86,6 +77,15 @@ Here are some ideas to get you started:
 [![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/Quananhle "XCode")](https://github.com/Quananhle)
 [![AzureDevops](https://img.shields.io/badge/-0175C2?style=flat&logo=azureDevops&logoColor=white&link=https://github.com/Quananhle "AzureDevops")](https://github.com/Quananhle)
 [![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/Quananhle "LeetCode")](https://github.com/Quananhle)
+
+**Software Engineering:**
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
+
+**Version Control:**
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Algorithm-DS&theme=radical "Algorithms-and-Data-Structures")](https://github.com/Quananhle/Algorithm-DS)
