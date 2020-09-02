@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 🚀 Welcome to my planet 🌎  
 
+### It's joke time
+
+```
+"Have you heard about the object-oriented way to become wealthy?"
+"No..."
+"Inheritance."
+```
+
 ### 👨‍💻 Languages and Tools
 
 ### Languages
