@@ -96,7 +96,8 @@ Here are some ideas to get you started:
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
------------------------------------------------------------
+
+---
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Data-Structure-and-Algorithms&theme=radical "AData-Structure-and-Algorithms")](https://github.com/Quananhle/Data-Structure-and-Algorithms)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=OOP-JAVA-and-Android-App-Developer&theme=highcontrast "Android-Software-Development")](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)
