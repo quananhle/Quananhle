@@ -84,26 +84,15 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Algorithm-DS&theme=radical "Algorithms-and-Data-Structures")](https://github.com/Quananhle/Algorithm-DS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=OOP-JAVA-and-Android-App-Developer&theme=highcontrast "Android-Software-Development")](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)
 
-📊 **This week I spent my time on**
-
-<!--START_SECTION:waka-->
-```text
-Kotlin      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-Other       1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-C++         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-YAML        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Markdown    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-```
-<!--END_SECTION:waka-->
-<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=Quananhle&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-
 <!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=quananhle&show_icons=true&theme=shades-of-purple&hide_border=true) -->
 
 ### 📫 Get In Touch
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)
-
+ <a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+ &nbsp; &nbsp;
+ 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle)
 
-⭐️ From 
+⭐️ From [Quan](https://github.com/Quananhle)
