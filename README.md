@@ -113,4 +113,4 @@ Here are some ideas to get you started:
 &nbsp; &nbsp;
  
 ⭐️ From [Quan](https://github.com/Quananhle) with :sparkling_heart: 
-<img align="right" width="80" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
+<img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
