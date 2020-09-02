@@ -98,11 +98,8 @@ Here are some ideas to get you started:
 Sharpen knowledge in data structures and algorithms.
 
 ### ☕ Get In Touch
-- [Twitter](https://twitter.com/ishacker_net)
-- [Bilibili](https://space.bilibili.com/364361791)
-- [Youtube](https://www.youtube.com/channel/UCQ2-QI7IYSSX2tpOjmjBatw)
 - [Personal Site](https://ishacker.net)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle)
 
 ⭐️ From 
