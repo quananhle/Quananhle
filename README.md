@@ -93,7 +93,7 @@ Sharpen knowledge in data structures and algorithms.
 
 ### 📫 Get In Touch
 - [Personal Site](https://quananhle.github.io/PersonalWebsite/index.html)
-- [LinkedIn](https://www.linkedin.com/in/quan-le-5932b8160/)
+- [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/quan-le-5932b8160/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle)
 
