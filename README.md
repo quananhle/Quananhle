@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🚀 Welcome to my house :japanese_castle:  
 
-### Funny Joke
+### Q&A
 
 ```
 "Have you heard about the object-oriented way to become wealthy?"
