@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🚀 Welcome to my planet 🌎 with 
+
 ### 👨‍💻 Languages and Tools
 
 ### Languages
@@ -81,6 +83,10 @@ Here are some ideas to get you started:
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Algorithm-DS&theme=radical "Algorithms-and-Data-Structures")](https://github.com/Quananhle/Algorithm-DS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=OOP-JAVA-and-Android-App-Developer&theme=highcontrast "Android-Software-Development")](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)
+
+📊 **This week I spent my time on**
+
+<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=Quananhle&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 <!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
