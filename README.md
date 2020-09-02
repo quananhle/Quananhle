@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 🚀 Welcome to my house :japanese_castle:  
 
+---
 ### :volcano: Funny Joke
 
 ```
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
 "Because it is below C level."
 ``` -->
 
+---
 ### 💻:keyboard: Languages and Tools 
 
 ### Languages 
@@ -113,5 +115,6 @@ Here are some ideas to get you started:
 <a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
  
+ ---
 ⭐️ From [Quan](https://github.com/Quananhle) with :sparkling_heart: 
 <img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
