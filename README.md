@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/Quananhle "LeetCode")](https://github.com/Quananhle)
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Algorithm-DS)](https://github.com/Quananhle/Algorithm-DS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Algorithm-DS description="asdasdas")](https://github.com/Quananhle/Algorithm-DS)
 
 
 ### 🏆 Github Status
