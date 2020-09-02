@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Welcome to my planet 🌎 with 
+🚀 Welcome to my planet 🌎  
 
 ### 👨‍💻 Languages and Tools
 
@@ -97,4 +97,4 @@ Here are some ideas to get you started:
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle)
 
-⭐️ From [Quan](https://github.com/Quananhle)
+⭐️ From [Quan](https://github.com/Quananhle) with :sparkling_heart:
