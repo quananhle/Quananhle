@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
-<sup>*click on some badges may redirect you to the corresponding repositories</sup>
+<sup>*clicking on some badges may redirect you to the corresponding repositories</sup>
 
 ---
 ### 👀 Active Repo
