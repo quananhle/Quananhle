@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🚀 Welcome to my house :japanese_castle:  
 
-### Q&A
+### :volcano: Q&A
 
 ```
 "Have you heard about the object-oriented way to become wealthy?"
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 "Because it is below C level."
 ``` -->
 
-### 👨‍💻 Languages and Tools
+### :desktop_computer:💻:keyboard: Languages and Tools :point_down:
 
-### Languages
+### Languages :v:
 
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
