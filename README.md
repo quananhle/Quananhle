@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ``` -->
 
 ---
-### 💻:keyboard: Languages and Tools 
+### 💻 Languages and Tools 
 
 ### Languages<sup>*</sup>
 
