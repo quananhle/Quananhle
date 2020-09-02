@@ -71,20 +71,20 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 **Software Engineering:**
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 
 **Software Development:**
-[![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![NetBeans IDE](https://img.shields.io/badge/-black?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Emacs](https://img.shields.io/badge/-7F5AB6?style=flat&logo=GNU-Emacs&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![AzureDevops](https://img.shields.io/badge/-0175C2?style=flat&logo=azureDevops&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Emacs](https://img.shields.io/badge/-7F5AB6?style=flat&logo=GNU-Emacs&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![AzureDevops](https://img.shields.io/badge/-0175C2?style=flat&logo=azureDevops&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 
 
