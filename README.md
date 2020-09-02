@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-```
+
 ### 👨‍💻 Languages and Tools
 
 ### Languages
@@ -89,13 +89,13 @@ Here are some ideas to get you started:
 
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Algorithm-DS&theme=radical "Algorithms-and-Data-Structures")](https://github.com/Quananhle/Algorithm-DS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=OOP-JAVA-and-Android-App-Developer&theme=highcontrast "Android-Software-Development")](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)
+
 
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=quananhle&show_icons=true&hide_border=true)
 
 ### 🔭 2020 Goal
-learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
+Sharpen knowledge in data structures and algorithms.
 
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/ishacker_net)
