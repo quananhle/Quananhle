@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ```
 "Have you heard about the object-oriented way to become wealthy?"
 "No..."
-"Inheritance."
+"Inheritance!"
 ```
 <!--
 ```
