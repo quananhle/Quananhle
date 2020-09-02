@@ -88,8 +88,8 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/Quananhle "LeetCode")](https://github.com/Quananhle)
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Algorithm-DS&theme=radical&show_owner=true "Algorithms-and-Data-Structures")](https://github.com/Quananhle/Algorithm-DS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=OOP-JAVA-and-Android-App-Developer&theme=radical&show_owner=true "Algorithms-and-Data-Structures")](https://github.com/Quananhle/Algorithm-DS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Algorithm-DS&theme=radical "Algorithms-and-Data-Structures")](https://github.com/Quananhle/Algorithm-DS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=OOP-JAVA-and-Android-App-Developer&theme=radical "Android-App-Developer")](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)
 
 
 ### 🏆 Github Status
