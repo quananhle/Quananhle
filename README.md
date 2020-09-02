@@ -91,14 +91,11 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Algorithm-DS&theme=radical "Algorithms-and-Data-Structures")](https://github.com/Quananhle/Algorithm-DS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=OOP-JAVA-and-Android-App-Developer&theme=highcontrast "Android-Software-Development")](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)
 
-
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
-
+![My Github Status](https://github-readme-stats.vercel.app/api?username=quananhle&show_icons=true&hide_border=true)
 
 ### 🔭 2020 Goal
 learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
-
 
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/ishacker_net)
