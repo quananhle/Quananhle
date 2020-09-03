@@ -112,10 +112,12 @@ Here are some ideas to get you started:
  ---
 ### 📫 Get In Touch
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
-<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/quan-le-5932b8160/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
+<a href="https://www.facebook.com/5175616e4c65/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
  
 ⭐️ From [Quan](https://github.com/Quananhle) with :sparkling_heart: 
-<img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
+<img align="right" width="75" height="20" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
