@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 **SDLC**
 [![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")](https://github.com/Quananhle) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/Quananhle) 
 [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/Quananhle "Kanban")](https://github.com/Quananhle)
-[![Cucumber](https://img.shields.io/badge/Cucumber-white?style=flat&logo=Cucumber&logoColor=green&link=https://github.com/Quananhle "Cucumber")](https://github.com/Quananhle)
+[![Cucumber](https://img.shields.io/badge/Cucumber-green?style=flat&logo=Cucumber&link=https://github.com/Quananhle "Cucumber")](https://github.com/Quananhle)
 
 **Software Engineering:**
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
