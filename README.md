@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 **Software Engineering:**
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
-**Version Control:**
+**Version Control & Continuous Integration:**
 [![Sourcetree](https://img.shields.io/badge/Sourcetree-blue?style=flat&logo=sourcetree&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
