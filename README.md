@@ -107,7 +107,8 @@ Here are some ideas to get you started:
 [![Word](https://img.shields.io/badge/-Microsoft_Word-blue?style=flat&logo=Microsoft-Word&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Powerpoint](https://img.shields.io/badge/-Microsoft_Powerpoint-red?style=flat&logo=Microsoft-Powerpoint&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Visio](https://img.shields.io/badge/-Microsoft_Visio-blue?style=flat&logo=Microsoft-Visio&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![Prezi](https://img.shields.io/badge/Prezi-blue?style=flat&logo=Prezi&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Prezi](https://img.shields.io/badge/Prezi-black?style=flat&logo=Prezi&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+
 <sup>*clicking on some badges may redirect you to the corresponding repositories</sup>
 
 ---
