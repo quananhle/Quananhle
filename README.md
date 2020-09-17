@@ -104,8 +104,8 @@ Here are some ideas to get you started:
 
 **Office:**
 [![Excel](https://img.shields.io/badge/-Microsoft_Excel-green?style=flat&logo=Microsoft-Excel&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![Word](https://img.shields.io/badge/-Microsoft_Office-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Word](https://img.shields.io/badge/-Microsoft_Word-blue?style=flat&logo=Microsoft-Word&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Powerpoint](https://img.shields.io/badge/-Microsoft_Powerpoint-red?style=flat&logo=Microsoft-Powerpoint&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Excel](https://img.shields.io/badge/-Microsoft_Office-green?style=flat&logo=Microsoft-Excel&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 
 <sup>*clicking on some badges may redirect you to the corresponding repositories</sup>
