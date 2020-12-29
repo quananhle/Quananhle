@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <div align="center"> 🚀 Welcome to my house :japanese_castle:</div>
 <br>
-<div align="center"><strong>“It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.” – Marcus Aurelius</strong></div>
+<div align="center"><strong>“It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.”</div>
+<div align="left">Marcus Aurelius</strong>
  
 ---
 ### :volcano: Funny Joke
