@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 🚀 Welcome to my house :japanese_castle:</div>
+<br>
+<div align="center"><strong>There are 10 types of people in the world. Those who understand binary and those who have regular sex.<strong></div>
 
 ---
 ### :volcano: Funny Joke
-
-> There are 10 types of people in the world. Those who understand binary and those who have regular sex.
 
 > "Have you heard about the object-oriented way to become wealthy?"
 >> "No..."
