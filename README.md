@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ---
 ### :volcano: Funny Joke
 
-__There are 10 types of people in the world. Those who understand binary and those who have regular sex.__
-
 > "Have you heard about the object-oriented way to become wealthy?"
 >> "No..."
 >>> "Inheritance!"
+
+> There are 10 types of people in the world. Those who understand binary and those who have regular sex.
 
 <!--
 ```
