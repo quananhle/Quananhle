@@ -50,8 +50,9 @@ Here are some ideas to get you started:
   [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-  [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+ <!-- [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI) 
+ -->
 
   **Java**: 
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
@@ -61,7 +62,7 @@ Here are some ideas to get you started:
   [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
   [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
   [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-    [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+  [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
 
   **JavaScript**: 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
