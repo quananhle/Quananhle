@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ---
 ### :volcano: Funny Joke
 
+> There are 10 types of people in the world. Those who understand binary and those who have regular sex.
+
 > "Have you heard about the object-oriented way to become wealthy?"
 >> "No..."
 >>> "Inheritance!"
@@ -29,7 +31,6 @@ Here are some ideas to get you started:
 "Why all Pascal programmers ask to live in Atlantis?"
 "Because it is below C level."
 ``` -->
-
 ---
 ### 💻 Languages and Tools 
 
