@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center">Marcus Aurelius</strong></div>
  
 ---
-### :volcano: Funny Joke
+### :volcano: Funny Jokes
 
 > "Have you heard about the object-oriented way to become wealthy?"
 >> "No..."
