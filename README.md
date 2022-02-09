@@ -41,10 +41,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&layout=compact&langs_count=8)](https://github.com/Quananhle)
 
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
-[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
-
 #### Python Full Stack:
   
 > __Backend__:
@@ -65,31 +61,36 @@ Here are some ideas to get you started:
   [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 
-__Data Anylytics__:
+#### Data Analytics:
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-
-#### Java Full Stack:
-  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
-  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-  [![SpringBoot](https://img.shields.io/badge/-Spring_Boot-black?style=flat&logo=springboot&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-  [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
-  [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-  [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-  [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+  [![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
 
 __Database Developer__:
   [![MSSQL](https://img.shields.io/badge/-MSSQL-purple?style=flat&logo=sqlserver&logoColor=purple&link=https://github.com/Quananhle)](https://github.com/Quananhle/Database-Management/tree/master/SQL)
   [![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-orange?style=flat&logo=oraclesql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+  
+  
+__Java__:
+  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
+  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+  [![SpringBoot](https://img.shields.io/badge/-Spring_Boot-black?style=flat&logo=springboot&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+<!--   [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
+  [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+  [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+  [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) -->
+  
+__Other language__:
+  [![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
 
 ### Tools
 
-**Software Development:**
+**IDE:**
 [![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/Quananhle "Eclipse IDE")](https://github.com/Quananhle)
 [![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Quananhle "NetBeans IDE")](https://github.com/Quananhle)
 [![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Quananhle "IntelliJ IDEA")](https://github.com/Quananhle)
@@ -108,22 +109,22 @@ __Database Developer__:
 [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/Quananhle "Kanban")](https://github.com/Quananhle)
 [![Cucumber](https://img.shields.io/badge/Cucumber-green?style=flat&logo=Cucumber&link=https://github.com/Quananhle "Cucumber")](https://github.com/Quananhle/Java-Web-Developer/tree/master/Cucumber)
 
-**Software Engineering:**
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+<!-- **Software Engineering:**
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle) -->
 
 **Version Control & Continuous Integration:**
 [![Sourcetree](https://img.shields.io/badge/Sourcetree-blue?style=flat&logo=sourcetree&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+<!-- [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
-[![TravisCI](https://img.shields.io/badge/-TravisCI-red?style=flat&logo=travis&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![TravisCI](https://img.shields.io/badge/-TravisCI-red?style=flat&logo=travis&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle) -->
 
 **Office:**
-[![Excel](https://img.shields.io/badge/-Microsoft_Excel-green?style=flat&logo=Microsoft-Excel&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![Word](https://img.shields.io/badge/-Microsoft_Word-blue?style=flat&logo=Microsoft-Word&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Powerpoint](https://img.shields.io/badge/-Microsoft_Powerpoint-red?style=flat&logo=Microsoft-Powerpoint&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Visio](https://img.shields.io/badge/-Microsoft_Visio-blue?style=flat&logo=Microsoft-Visio&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
+[![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=Microsoft-Excel&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
+[![Word](https://img.shields.io/badge/-Word-blue?style=flat&logo=Microsoft-Word&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Powerpoint](https://img.shields.io/badge/-Powerpoint-red?style=flat&logo=Microsoft-Powerpoint&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Visio](https://img.shields.io/badge/-Visio-blue?style=flat&logo=Microsoft-Visio&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 [![Prezi](https://img.shields.io/badge/Prezi-black?style=flat&logo=Prezi&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 <sup>*clicking on some badges may redirect you to the corresponding repositories</sup>
