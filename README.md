@@ -73,7 +73,8 @@ Here are some ideas to get you started:
 __Database Developer__:
   [![MSSQL](https://img.shields.io/badge/-MSSQL-purple?style=flat&logo=sqlserver&logoColor=purple&link=https://github.com/Quananhle)](https://github.com/Quananhle/Database-Management/tree/master/SQL)
   [![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-orange?style=flat&logo=oraclesql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-  
+<!--   [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=orange&link=https://github.com/Quananhle)](https://github.com/Quananhle/Database-Management/tree/master/SQL) -->
+
   
 __Java__:
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
