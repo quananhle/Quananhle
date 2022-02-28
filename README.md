@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 #### Python Full Stack:
   
 > __Backend__:
-  [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-  [![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-  [![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework?style=flat-square&logo=django&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+  [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend) 
+  [![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend) 
+  [![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework?style=flat-square&logo=django&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend) 
 
 > __Frontend__:
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
