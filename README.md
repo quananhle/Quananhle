@@ -44,21 +44,21 @@ Here are some ideas to get you started:
 #### Python Full Stack:
   
 > __Backend__:
-  [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend) 
-  [![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend) 
-  [![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework?style=flat-square&logo=django&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Backend) 
+  [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
+  [![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
+  [![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework?style=flat-square&logo=django&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
 
 > __Frontend__:
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)
-  [![jQuery](https://img.shields.io/badge/jQuery-yellow?style=flat&logo=jQuery&logoColor=white&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
+  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
+  [![jQuery](https://img.shields.io/badge/jQuery-yellow?style=flat&logo=jQuery&logoColor=white&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
 
 > __DBMS:__ 
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue?style=flat&logo=postgresql&logoColor=orange&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)
-  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&logoColor=black&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)
-  [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue?style=flat&logo=postgresql&logoColor=orange&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
+  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&logoColor=black&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
+  [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
 
 
 #### Data Analytics:
