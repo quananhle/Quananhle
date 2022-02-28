@@ -56,9 +56,9 @@ Here are some ideas to get you started:
   [![jQuery](https://img.shields.io/badge/jQuery-yellow?style=flat&logo=jQuery&logoColor=white&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Frontend)
 
 > __DBMS:__ 
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue?style=flat&logo=postgresql&logoColor=orange&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&logoColor=black&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-  [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue?style=flat&logo=postgresql&logoColor=orange&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)
+  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&logoColor=black&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)
+  [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)](https://github.com/Quananhle/Full-Stack-in-Django/tree/main/Database)
 
 
 #### Data Analytics:
