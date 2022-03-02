@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ### Languages<sup>*</sup>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&layout=compact&langs_count=8)](https://github.com/Quananhle)
+![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=quananhle&count_private=true&show_icons=true&theme=radical)
 
 #### Python Full Stack:
   
