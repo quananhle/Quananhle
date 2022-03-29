@@ -154,5 +154,6 @@ __Other language__:
 <img align="right" width="75" height="20" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
 
 <!-- icon: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md 
+base 64 image: https://www.base64-image.de/
 simple icon: https://simpleicons.org/ -->
 
