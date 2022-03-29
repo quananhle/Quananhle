@@ -152,3 +152,5 @@ __Other language__:
  
 ⭐️ From [Quan](https://github.com/Quananhle) with :sparkling_heart: 
 <img align="right" width="75" height="20" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
+
+<!-- icon: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
