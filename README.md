@@ -153,6 +153,8 @@ __Other language__:
 ⭐️ From [Quan](https://github.com/Quananhle) with :sparkling_heart: 
 <img align="right" width="75" height="20" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
 
+<img align="right" width="160" height="20" src="https://profile-counter.glitch.me/quananhle/count.svg">
+
 <!-- icon: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md 
 base 64 image: https://www.base64-image.de/
 simple icon: https://simpleicons.org/ -->
