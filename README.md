@@ -59,10 +59,11 @@ Here are some ideas to get you started:
 > __DBMS:__ 
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue?style=flat&logo=postgresql&logoColor=orange&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
   [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&logoColor=black&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
-  [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django) 
+  [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django)
+  [![DBeaver](https://img.shields.io/badge/DBeaver-jade?style=flat&logo=dbeaver&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/Quananhle/Full-Stack-in-Django)
 
 
-#### Data Analytics:
+#### Data Engineer:
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
@@ -89,7 +90,8 @@ __Java__:
   
 __Other language__:
   [![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
-
+  [![VBA](https://img.shields.io/badge/-VBA-orange?style=flat&logo=visualbasic&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+  
 ### Tools
 
 **IDE:**
@@ -97,7 +99,8 @@ __Other language__:
 [![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Quananhle "NetBeans IDE")](https://github.com/Quananhle)
 [![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Quananhle "IntelliJ IDEA")](https://github.com/Quananhle)
 [![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white&link=https://github.com/Quananhle "Docker")](https://github.com/Quananhle)
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle)
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&color=purple&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle)
+[![Visual Studio Code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio&logoColor=white&link=https://github.com/Quananhle "Visual Studio Code")](https://github.com/Quananhle)
 [![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/Quananhle "Android Studio" )](https://github.com/Quananhle)
 [![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/Quananhle "Vim")](https://github.com/Quananhle)
 [![Emacs](https://img.shields.io/badge/-7F5AB6?style=flat&logo=GNU-Emacs&logoColor=white&link=https://github.com/Quananhle "Emacs")](https://github.com/Quananhle)
